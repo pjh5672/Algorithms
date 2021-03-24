@@ -6,4 +6,4 @@ This repository is for introduction to algorithms for learners. All reference li
 ## Updates
 | Date | Message |
 |:---:|:---:|
-| Mar/24/2020 | create repo |
+| Mar/24/2020 | create repo, baekjoon level 1-2 success |
