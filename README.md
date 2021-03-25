@@ -18,6 +18,6 @@ All reference is from **[Programmers](https://programmers.co.kr/top_programmers/
 ## :memo: Updates
 
 ## Updates
-| Date | Commit Message |
+| Date | Message |
 |:---:|:---:|
 | Mar/24/2020 | create repo, baekjoon level 1-2 success |
