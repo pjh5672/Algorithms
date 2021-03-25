@@ -18,5 +18,5 @@ All reference is from **[Programmers](https://programmers.co.kr/top_programmers/
 ## :memo: Updates
 
 | Date | Commit Message |
-|:---:|:---:|
+|:-----:|:-----:|
 | Mar/24/2020 | create repo |
