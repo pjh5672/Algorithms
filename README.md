@@ -4,6 +4,6 @@ This repository is for introduction to algorithms for learners. All reference li
 - [Programmers](https://programmers.co.kr/top_programmers/introduce)
 
 ## Updates
-| Date | Message |
+| Date | Commit Message |
 |:---:|:---:|
 | Mar/24/2020 | create repo, baekjoon level 1-2 success |
