@@ -12,7 +12,8 @@ This repository is for introduction to algorithms for learners. There are severa
 - https://www.acmicpc.net/problem/<file_name>  
 
 ### :memo: Reference 
-- **[Baekjoon Online Judge](https://www.acmicpc.net)**.     
+
+- **[Baekjoon Online Judge](https://www.acmicpc.net)**     
 
 
 ## Updates
