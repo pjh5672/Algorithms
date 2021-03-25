@@ -19,7 +19,6 @@ All reference is below.
 
 ## :memo: Updates
 
-## Updates
 | Date | Commit Message |
 |:----:|:----:|
 | Mar/24/2020 | new creation, baekjoon level 1-2 success |
