@@ -16,5 +16,6 @@ This repository is for introduction to algorithms for learners. There are severa
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
-| Mar/24/2020 | new creation, baekjoon level 1-2 success |
+| Mar/24/2020 | new creation, baekjoon step 1-2 success |
 | Mar/25/2020 | folders configuration |
+| Mar/26/2020 | step 3 : 2738 update |
