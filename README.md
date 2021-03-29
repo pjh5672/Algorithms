@@ -19,4 +19,4 @@ This repository is for introduction to algorithms for learners. There are severa
 | Mar/24/2020 | new creation, baekjoon step 1-2 success |
 | Mar/25/2020 | folders configuration |
 | Mar/26/2020 | step 3 : 2739 update |
-| Mar/29/2020 | step 3 : 2739, 8393, 10950 update |
+| Mar/29/2020 | step 3 : 2739, 8393, 10950, 2741, 2742, 11021, 11022, 15552 update |
