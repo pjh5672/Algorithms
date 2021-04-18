@@ -22,3 +22,4 @@ This repository is for introduction to algorithms for learners. There are severa
 | Mar/29/2021 | step 3: 2739, 8393, 10950, 2741, 2742, 11021, 11022, 15552 update |  
 | Mar/30/2021 | step 3-4 complete, step 5: 2562, 10818, 2577 update |  
 | Apr/01/2021 | step 5 1546, 3052, 8958 update |  
+| Apr/18/2021 | step 5 4344, step 6 15596 update |  
