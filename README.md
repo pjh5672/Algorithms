@@ -11,7 +11,7 @@ This repository is for introduction to algorithms for learners. There are severa
 
 ### :memo: References
 - **[Baekjoon Online Judge](https://www.acmicpc.net)**     
-
+- **[Programmers](https://programmers.co.kr/)**  
 
 ## Updates
 | Date | Commit Message |
@@ -24,3 +24,4 @@ This repository is for introduction to algorithms for learners. There are severa
 | Apr/01/2021 | step 5 1546, 3052, 8958 update |  
 | Apr/18/2021 | step 5 4344, step 6 15596 update |  
 | Apr/27/2021 | step 6, 7 complete, step 8 1011 update |  
+| Apr/29/2021 | step 8 1011 complete |  
