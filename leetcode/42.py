@@ -43,7 +43,7 @@ class Solution(object):
                 
                 distance = i - stack[-1] - 1
                 waters = min(height[i], height[stack[-1]]) - height[top]
-                volume += distance * waters
+                volume += distance * watersp
             
             stack.append(i)
         return volume
